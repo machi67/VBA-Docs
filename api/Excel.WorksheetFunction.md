@@ -194,6 +194,7 @@ End Sub
 - [Fact](Excel.WorksheetFunction.Fact.md)
 - [FactDouble](Excel.WorksheetFunction.FactDouble.md)
 - [FDist](Excel.WorksheetFunction.FDist.md)
+- [Filter]
 - [FilterXML](Excel.worksheetfunction.filterxml.md)
 - [Find](Excel.WorksheetFunction.Find.md)
 - [FindB](Excel.WorksheetFunction.FindB.md)
